@@ -5,7 +5,7 @@
 
 ## About me 🙆‍♂️
 
-I'm a happily IT dabbler, focused on React and familiar with Back-End technologies like Express, Passport, Sequelize and MySQL.
+I'm a happily tech dabbler, focused on React and familiar with Back-End technologies like Express, Passport, Sequelize and MySQL.
 I have professional experience working with data and love relational databases. I've had the opportunity to provide solutions based on my knowledge and imagination that have facilitated the workflow of my colleagues and work superiors, allowing them to make clearer decisions.
 With many hours of professional and personal experimentation I am familiar with SQL and data relationships and flow between technology stacks.
 
