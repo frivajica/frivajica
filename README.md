@@ -18,7 +18,7 @@ Out of the formal stuff, I really love building and improving software, not just
 Right now I've been working with ReactJs/NextJs and Firebase in my current job. I'm willing to learn Ruby and Ruby on Rails or Python really soon and have some interest on fast languages such as Go and Rust, but not currently working with them.
 
 
-## Recent projects 
+## Recent public projects 
 
 - Portfolio (Soon™)
 - [TECHO Teams](https://github.com/frivajica/TECHO-Teams/)
