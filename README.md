@@ -5,17 +5,18 @@
 
 ## About me 🙆‍♂️
 
-I'm a happily tech dabbler, focused on React and familiar with Back-End technologies like Express, Passport, Sequelize and MySQL.
-I have professional experience working with data and love relational databases. I've had the opportunity to provide solutions based on my knowledge and imagination that have facilitated the workflow of my colleagues and work superiors, allowing them to make clearer decisions.
-With many hours of professional and personal experimentation I am familiar with SQL and data relationships and flow between technology stacks.
+I'm a happily tech dabbler, focused on React and familiar with Back-End technologies hands on experience.
 
-Spent some time auditing in the past, so I'm able to recognize how my work is related to that of my colleagues. My outputs translate into their inputs. Our work is a system that should work synergistically.
+I have professional experience working with data and love relational databases. I've had the opportunity to provide solutions that have facilitated the workflow of my colleagues, allowing them to make clearer decisions based upon large volumes of data.
+Familiar with SQL and data relationships.
 
-Out of the formal stuff, I really love building and improving software, not just making it work, but making it accessible and efficient.
+Spent some time auditing in the past, so I'm able to recognize how my work is related to that of my colleagues. My outputs translate into their inputs since it's a system.
+
+Out of the formal stuff, I really love building, improving and software efficient.
 
 
 ## Recent experience and learning 📒🖥️
-Right now I've been working with ReactJs/NextJs and Firebase in my current job. I'm willing to learn Ruby and Ruby on Rails or Python really soon and have some interest on fast languages such as Go and Rust, but not currently working with them.
+I've been working with ReactJs/NextJs and React Native in my current job. I'm willing to learn Python soon and have some interest on fast languages such as Go and Rust, but not currently working with them.
 
 
 ## Recent public projects 
@@ -24,7 +25,7 @@ Right now I've been working with ReactJs/NextJs and Firebase in my current job. 
 - [TECHO Teams](https://github.com/frivajica/TECHO-Teams/)
 - More
 
-## 💻 Some tech I know and use
+## 💻 Some tech I've had my hands on
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,6 +39,7 @@ Right now I've been working with ReactJs/NextJs and Firebase in my current job. 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
