@@ -7,11 +7,9 @@
 
 I'm a happily tech dabbler, focused on React, extensive experience in Vue3 and familiar with Back-End technologies.
 
-Love working with data. I've had the opportunity to provide solutions that have facilitated the workflow of my colleagues, allowing them to make clearer decisions based upon large volumes of data.
+Love working with data. I've had the opportunity to build dashboard solutions that have facilitated the workflow of my colleagues, allowing them to make clearer decisions based upon large volumes of data.
 
-Spent some time auditing in the past.
-
-I really love building, improving and software efficient.
+Spent some time auditing in the past and I really love building, improving software and increasing efficiency.
 
 ## 💻 Some tech I've had my hands on
 
