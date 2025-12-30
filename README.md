@@ -5,25 +5,13 @@
 
 ## About me 🙆‍♂️
 
-I'm a happily tech dabbler, focused on React and familiar with Back-End technologies hands on experience.
+I'm a happily tech dabbler, focused on React, extensive experience in Vue3 and familiar with Back-End technologies.
 
-I have professional experience working with data and love relational databases. I've had the opportunity to provide solutions that have facilitated the workflow of my colleagues, allowing them to make clearer decisions based upon large volumes of data.
-Familiar with SQL and data relationships.
+Love working with data. I've had the opportunity to provide solutions that have facilitated the workflow of my colleagues, allowing them to make clearer decisions based upon large volumes of data.
 
-Spent some time auditing in the past, so I'm able to recognize how my work is related to that of my colleagues. My outputs translate into their inputs since it's a system.
+Spent some time auditing in the past.
 
-Out of the formal stuff, I really love building, improving and software efficient.
-
-
-## Recent experience and learning 📒🖥️
-I've been working with ReactJs/NextJs and React Native in my current job. I'm willing to learn Python soon and have some interest on fast languages such as Go and Rust, but not currently working with them.
-
-
-## Recent public projects 
-
-- Portfolio (Soon™)
-- [TECHO Teams](https://github.com/frivajica/TECHO-Teams/)
-- More
+I really love building, improving and software efficient.
 
 ## 💻 Some tech I've had my hands on
 
