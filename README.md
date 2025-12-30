@@ -5,7 +5,7 @@
 
 ## About me 🙆‍♂️
 
-I'm a happy Software Dev, focused on React, extensive experience in Vue3 and familiar with Back-End technologies.
+I'm a happy Software Dev, focused on React, having extensive experience in Vue3 and familiar with Back-End technologies.
 
 Love working with data. I've had the opportunity to build dashboard solutions that have facilitated the workflow of my colleagues, allowing them to make clearer decisions based upon large volumes of data.
 
