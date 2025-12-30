@@ -41,16 +41,3 @@ Spent some time auditing in the past and I really love building, improving softw
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-<br>
-
-<p align="center">
-	<a href="https://git.io/streak-stats" >
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=frivajica&theme=blux&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=E783D9" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frivajica&langs_count=8&layout=compact&theme=cobalt" />
-	</a>
-</p>
